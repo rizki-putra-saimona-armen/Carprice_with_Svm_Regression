@@ -18,7 +18,7 @@ Algoritma SVR bekerja dengan cara menghitung jarak geometris antar titik data un
 
 ---
 
-## 📊 Metrik Evaluasi Regresi
+##  Metrik Evaluasi Regresi
 
 Untuk mengukur seberapa presisi model SVR dalam memprediksi target, proyek ini menggunakan:
 1. **MAE (Mean Absolute Error):** Memberikan gambaran rata-rata tingkat melesetnya prediksi secara riil dan linear.
